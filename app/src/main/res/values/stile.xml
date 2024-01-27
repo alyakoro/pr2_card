@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="text_vvod">
+        <item name="android:shape">rectangle</item>
+        <item name="android:solidColor">#FFF</item>
+        <item name="cornerSize">20dp</item>
+    </style>
+</resources>

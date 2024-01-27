@@ -9,9 +9,4 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
     }
-
-    override fun onccreate(menu: Menu?): Boolean{
-        menuInflater.inflate(R.menu.setings, menu)
-        return true
-    }
 }
